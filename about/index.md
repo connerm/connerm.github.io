@@ -15,3 +15,7 @@ Here are some of the things I have been working on:
 
 If you would like to know more about my career, please check out my [résumé](../ConnerMcConkey-Resume.pdf).
 
+Take care,
+
+Conner
+

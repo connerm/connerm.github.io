@@ -11,6 +11,7 @@
     <author>Author</author>
     <guid>http://example.org/welcome/</guid>
     <description><![CDATA[Hello, this is the first post on my blog. This is a test post and will likely be removed in the future.
-Take care, Conner]]></description>
+Take care,
+Conner]]></description>
 </item></channel>
 </rss>
