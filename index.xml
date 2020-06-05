@@ -4,9 +4,17 @@
         <link>http://example.org/</link>
         <description>Conner&#39;s wee corner of the web.</description>
         <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>connermcconkey@gmail.com (Conner Mconkey)</managingEditor>
-            <webMaster>connermcconkey@gmail.com (Conner Mconkey)</webMaster><lastBuildDate>Thu, 04 Jun 2020 16:11:32 -0700</lastBuildDate>
+            <webMaster>connermcconkey@gmail.com (Conner Mconkey)</webMaster><lastBuildDate>Thu, 04 Jun 2020 18:41:02 -0700</lastBuildDate>
             <atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
         <item>
+    <title>Website Architecture</title>
+    <link>http://example.org/website-architecture/</link>
+    <pubDate>Thu, 04 Jun 2020 18:41:02 -0700</pubDate>
+    <author>Author</author>
+    <guid>http://example.org/website-architecture/</guid>
+    <description><![CDATA[This blog is a static website, meaning it is made only of simple HTML, CSS, and JavaScipt files. There is no back end server to process or store information. This limits the scope of what is possible here, but affords simplicity and security.
+It is hosted on Github Pages, as a user page. Github allows users to host a static website for their user profile. The site is automatically hosted when the user creates a repository named as their username, followed by github.]]></description>
+</item><item>
     <title>Welcome</title>
     <link>http://example.org/welcome/</link>
     <pubDate>Thu, 04 Jun 2020 16:11:32 -0700</pubDate>
