@@ -1,12 +1,10 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title>Conner McConkey</title>
-        <link>http://example.org/</link>
-        <description>Conner&#39;s wee corner of the web.</description>
+        <title>markdown - Tag - Conner McConkey</title>
+        <link>http://example.org/tags/markdown/</link>
+        <description>markdown - Tag - Conner McConkey</description>
         <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>connermcconkey@gmail.com (Conner Mconkey)</managingEditor>
-            <webMaster>connermcconkey@gmail.com (Conner Mconkey)</webMaster><lastBuildDate>Thu, 04 Jun 2020 20:08:28 -0700</lastBuildDate>
-            <atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
-        <item>
+            <webMaster>connermcconkey@gmail.com (Conner Mconkey)</webMaster><lastBuildDate>Thu, 04 Jun 2020 20:08:28 -0700</lastBuildDate><atom:link href="http://example.org/tags/markdown/" rel="self" type="application/rss+xml" /><item>
     <title>Writing with Word and Pandoc</title>
     <link>http://example.org/pandoc/</link>
     <pubDate>Thu, 04 Jun 2020 20:08:28 -0700</pubDate>
@@ -22,14 +20,5 @@ I started writing the blog in Markdown, which is easy enough to understand, but 
     <guid>http://example.org/website-architecture/</guid>
     <description><![CDATA[This blog is a static website, meaning it is made only of simple HTML, CSS, and JavaScipt files. There is no back end server to process or store information. This limits the scope of what is possible here, but affords simplicity and security.
 It is hosted on Github Pages, as a user page. Github allows users to host a static website for their user profile. The site is automatically hosted when the user creates a repository named as their username, followed by github.]]></description>
-</item><item>
-    <title>Welcome</title>
-    <link>http://example.org/welcome/</link>
-    <pubDate>Thu, 04 Jun 2020 16:11:32 -0700</pubDate>
-    <author>Author</author>
-    <guid>http://example.org/welcome/</guid>
-    <description><![CDATA[Hello, this is the first post on my blog. This is a test post and will likely be removed in the future.
-Take care,
-Conner]]></description>
 </item></channel>
 </rss>

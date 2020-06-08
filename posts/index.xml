@@ -4,7 +4,15 @@
         <link>http://example.org/posts/</link>
         <description>All Posts | Conner McConkey</description>
         <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>connermcconkey@gmail.com (Conner Mconkey)</managingEditor>
-            <webMaster>connermcconkey@gmail.com (Conner Mconkey)</webMaster><lastBuildDate>Thu, 04 Jun 2020 18:41:02 -0700</lastBuildDate><atom:link href="http://example.org/posts/" rel="self" type="application/rss+xml" /><item>
+            <webMaster>connermcconkey@gmail.com (Conner Mconkey)</webMaster><lastBuildDate>Thu, 04 Jun 2020 20:08:28 -0700</lastBuildDate><atom:link href="http://example.org/posts/" rel="self" type="application/rss+xml" /><item>
+    <title>Writing with Word and Pandoc</title>
+    <link>http://example.org/pandoc/</link>
+    <pubDate>Thu, 04 Jun 2020 20:08:28 -0700</pubDate>
+    <author>Author</author>
+    <guid>http://example.org/pandoc/</guid>
+    <description><![CDATA[I am designing this blog to make it as easy a possible for me to get writing. I am trying to remove the little hurdles, so I can focus on writing and not get blogged down in code, or endlessly tweak settings.
+I started writing the blog in Markdown, which is easy enough to understand, but still feels like writing code. I do most of my development work in Visual Studio Code, which is an excellent editor and is the best development environment on Windows in conjunction with Windows Subsystem Linux.]]></description>
+</item><item>
     <title>Website Architecture</title>
     <link>http://example.org/website-architecture/</link>
     <pubDate>Thu, 04 Jun 2020 18:41:02 -0700</pubDate>
