@@ -1,23 +1,23 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title>hugo - Tag - Conner McConkey</title>
-        <link>http://example.org/tags/hugo/</link>
+        <link>https://connermcconkey.com/tags/hugo/</link>
         <description>hugo - Tag - Conner McConkey</description>
         <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>connermcconkey@gmail.com (Conner Mconkey)</managingEditor>
-            <webMaster>connermcconkey@gmail.com (Conner Mconkey)</webMaster><lastBuildDate>Thu, 04 Jun 2020 20:08:28 -0700</lastBuildDate><atom:link href="http://example.org/tags/hugo/" rel="self" type="application/rss+xml" /><item>
+            <webMaster>connermcconkey@gmail.com (Conner Mconkey)</webMaster><lastBuildDate>Thu, 04 Jun 2020 20:08:28 -0700</lastBuildDate><atom:link href="https://connermcconkey.com/tags/hugo/" rel="self" type="application/rss+xml" /><item>
     <title>Writing with Word and Pandoc</title>
-    <link>http://example.org/pandoc/</link>
+    <link>https://connermcconkey.com/pandoc/</link>
     <pubDate>Thu, 04 Jun 2020 20:08:28 -0700</pubDate>
     <author>Author</author>
-    <guid>http://example.org/pandoc/</guid>
+    <guid>https://connermcconkey.com/pandoc/</guid>
     <description><![CDATA[I am designing this blog to make it as easy a possible for me to get writing. I am trying to remove the little hurdles, so I can focus on writing and not get blogged down in code, or endlessly tweak settings.
 I started writing the blog in Markdown, which is easy enough to understand, but still feels like writing code. I do most of my development work in Visual Studio Code, which is an excellent editor and is the best development environment on Windows in conjunction with Windows Subsystem Linux.]]></description>
 </item><item>
     <title>Website Architecture</title>
-    <link>http://example.org/website-architecture/</link>
+    <link>https://connermcconkey.com/website-architecture/</link>
     <pubDate>Thu, 04 Jun 2020 18:41:02 -0700</pubDate>
     <author>Author</author>
-    <guid>http://example.org/website-architecture/</guid>
+    <guid>https://connermcconkey.com/website-architecture/</guid>
     <description><![CDATA[This blog is a static website, meaning it is made only of simple HTML, CSS, and JavaScipt files. There is no back end server to process or store information. This limits the scope of what is possible here, but affords simplicity and security.
 It is hosted on Github Pages, as a user page. Github allows users to host a static website for their user profile. The site is automatically hosted when the user creates a repository named as their username, followed by github.]]></description>
 </item></channel>
